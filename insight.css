@@ -1,0 +1,13 @@
+.insight_icon_asc::after { content: " ↑"; } .insight_icon_desc::after { content: " ↓"; }
+
+#insight_settings { height: 700px; width: 100px; }
+#insight_master_search { width: 90px; }
+.insight_select_multiple { width: 90px; }
+
+#insight_pivot th { padding: 0px 2px; font: 14px; font-weight: normal; text-align: center; vertical-align: middle; }
+#insight_pivot td { padding: 0px 2px; font: 14px; font-weight: normal; text-align: center; vertical-align: middle; }
+#insight_pivot .label_row { text-align: left; }
+#insight_pivot .label_row_totals { text-align: right; }
+
+#insight_table th { padding: 0px 2px; white-space: nowrap; }
+#insight_table td { padding: 0px 2px; }
